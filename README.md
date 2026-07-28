@@ -49,3 +49,5 @@
 
 หมายเหตุ
 - รายการที่ระบุเป็น (private) เป็นรีโพส่วนตัว
+- Link การเขียน Syntax :
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
