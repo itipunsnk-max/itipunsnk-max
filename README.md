@@ -6,6 +6,7 @@
 ## ⚡ Solar & Electrical
 - [Guidline_Solar_rooftop_thailand](https://github.com/itipunsnk-max/Guidline_Solar_rooftop_thailand) - แนวทางการตรวจรับ/ติดตั้งโซลาร์ (ไทย)
 - [Design_PV_Layout_Solar-Rooftop](https://github.com/itipunsnk-max/Design_PV_Layout_Solar-Rooftop) - การออกแบบแผงโซลาร์บนหลังคา
+- [Solar-CABLE-Wiring-Raceway-V.1] (https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1.git) - การออกสายไฟ + Voltage Drop และ Raceway/Wireway
 - [Electrical_Standard_EIT-2564V.2](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) - มาตรฐานงานไฟฟ้า EIT 2564
 
 ## 🧩 SAP & Internal Systems
