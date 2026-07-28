@@ -17,8 +17,8 @@
 - [8.1.Web-Scrapping-ServiceTracking.Selenium](https://github.com/itipunsnk-max/8.1.Web-Scrapping-ServiceTracking.Selenium) - Web Scraping ด้วย Selenium สำหรับติดตามบริการ (Service Tracking)
 
 ## 🧩 SAP & Internal Systems
-- [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
 - [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) (private) - ตัวอย่างการดึงข้อมูล/สคริปต์ที่เกี่ยวกับ SAP
+- [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
 
 ## 🤖 AI / Prompt & Interactive
 - [claude-interactive-course](https://github.com/itipunsnk-max/claude-interactive-course) - คอร์ส / ตัวอย่างเชิงโต้ตอบเกี่ยวกับ Claude
