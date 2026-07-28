@@ -13,12 +13,12 @@
 ## 🕸️ Web Scraping & Service Tracking
 - [API-Postman-Fusion-Python](https://github.com/itipunsnk-max/API-Postman-Fusion-Python) (private) - ตัวอย่าง/สคริปต์การเรียก API ด้วย Python/Postman
 - [101_Data-Engineer_Learning](https://github.com/itipunsnk-max/101_Data-Engineer_Learning) (private) - โน้ต/ตัวอย่างสำหรับ Data Engineer (รวมเทคนิค scraping/data pipelines)
-- [8.0.Web-Scraping_API-Static-Dynamic](https://github.com/itipunsnk-max/8.0.Web-Scraping_API-Static-Dynamic) (ระหว่างดำเนินการ) - ตัวอย่าง Web Scraping สำหรับหน้า static และ dynamic / API
+- [8.0.Web-Scraping_API-Static-Dynamic](https://github.com/itipunsnk-max/8.0.Web-Scraping_API-Static-Dynamic) (🚧 In Progress) - ตัวอย่าง Web Scraping สำหรับหน้า static และ dynamic / API
 - [8.1.Web-Scrapping-ServiceTracking.Selenium](https://github.com/itipunsnk-max/8.1.Web-Scrapping-ServiceTracking.Selenium) - Web Scraping ด้วย Selenium สำหรับติดตามบริการ (Service Tracking)
 
 ## 🧩 SAP & Internal Systems
 - [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) (private) - ตัวอย่างการดึงข้อมูล/สคริปต์ที่เกี่ยวกับ SAP
-- [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) (ระหว่างดำเนินการ) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
+- [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) (🚧 In Progress) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
 
 ## 🤖 AI / Prompt & Interactive
 - [claude-interactive-course](https://github.com/itipunsnk-max/claude-interactive-course) - คอร์ส / ตัวอย่างเชิงโต้ตอบเกี่ยวกับ Claude
