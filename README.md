@@ -11,8 +11,8 @@
 - [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) (private) - สำหรับอ้างอิงมาตรฐานงานไฟฟ้า
 
 ## 🕸️ Web Scraping & Service Tracking
-- [101_Data-Engineer_Learning](https://github.com/itipunsnk-max/101_Data-Engineer_Learning) (private) - โน้ต/ตัวอย่างสำหรับ Data Engineer (รวมเทคนิค scraping/data pipelines)
 - [API-Postman-Fusion-Python](https://github.com/itipunsnk-max/API-Postman-Fusion-Python) (private) - ตัวอย่าง/สคริปต์การเรียก API ด้วย Python/Postman
+- [101_Data-Engineer_Learning](https://github.com/itipunsnk-max/101_Data-Engineer_Learning) (private) - โน้ต/ตัวอย่างสำหรับ Data Engineer (รวมเทคนิค scraping/data pipelines)
 - [8.0.Web-Scraping_API-Static-Dynamic](https://github.com/itipunsnk-max/8.0.Web-Scraping_API-Static-Dynamic) - ตัวอย่าง Web Scraping สำหรับหน้า static และ dynamic / API
 - [8.1.Web-Scrapping-ServiceTracking.Selenium](https://github.com/itipunsnk-max/8.1.Web-Scrapping-ServiceTracking.Selenium) - Web Scraping ด้วย Selenium สำหรับติดตามบริการ (Service Tracking)
 
