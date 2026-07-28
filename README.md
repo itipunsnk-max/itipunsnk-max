@@ -10,15 +10,15 @@
 - [8.Electrical_Standard_EIT-2564V.2](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) (private) - มาตรฐานงานไฟฟ้า EIT 2564
 - [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) (private) - สำหรับอ้างอิงมาตรฐานงานไฟฟ้า
 
-## 🧩 SAP & Internal Systems
-- [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
-- [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) (private) - ตัวอย่างการดึงข้อมูล/สคริปต์ที่เกี่ยวกับ SAP
-
 ## 🕸️ Web Scraping & Service Tracking
 - [101_Data-Engineer_Learning](https://github.com/itipunsnk-max/101_Data-Engineer_Learning) (private) - โน้ต/ตัวอย่างสำหรับ Data Engineer (รวมเทคนิค scraping/data pipelines)
 - [API-Postman-Fusion-Python](https://github.com/itipunsnk-max/API-Postman-Fusion-Python) (private) - ตัวอย่าง/สคริปต์การเรียก API ด้วย Python/Postman
 - [8.0.Web-Scraping_API-Static-Dynamic](https://github.com/itipunsnk-max/8.0.Web-Scraping_API-Static-Dynamic) - ตัวอย่าง Web Scraping สำหรับหน้า static และ dynamic / API
 - [8.1.Web-Scrapping-ServiceTracking.Selenium](https://github.com/itipunsnk-max/8.1.Web-Scrapping-ServiceTracking.Selenium) - Web Scraping ด้วย Selenium สำหรับติดตามบริการ (Service Tracking)
+
+## 🧩 SAP & Internal Systems
+- [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
+- [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) (private) - ตัวอย่างการดึงข้อมูล/สคริปต์ที่เกี่ยวกับ SAP
 
 ## 🤖 AI / Prompt & Interactive
 - [claude-interactive-course](https://github.com/itipunsnk-max/claude-interactive-course) - คอร์ส / ตัวอย่างเชิงโต้ตอบเกี่ยวกับ Claude
