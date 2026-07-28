@@ -37,7 +37,7 @@
 - [Insatall_NPM_Node.js](https://github.com/itipunsnk-max/Insatall_NPM_Node.js) (private) - คำสั่งการลง Node.js (Portable)
 
 ## 🧪 Scripts & Knowledge Base & Application
-- [Python_Knowledge_V.1](https://github.com/itipunsnk-max/Python_Knowledge_V.1) (private) - บันทึกความรู้ Python
+- [Python_Knowledge_V.1](https://github.com/itipunsnk-max/Python_Knowledge_V.1) (private)(🚧 In Progress : Libraries เช่น Argparse) - บันทึกความรู้ Python
 - [Powershell-zero-to-senior](https://github.com/itipunsnk-max/Powershell-zero-to-senior) (private) - โน้ต Powershell ตั้งแต่พื้นฐานถึงขั้นสูง
 - [BOQ-Estimator-V.1](https://github.com/itipunsnk-max/BOQ-Estimator-V.1) (private) - ตัวอย่างแอป/สเปคสำหรับประเมินราคาเบื้องต้น
 - [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) (private) - App สำหรับ Filter ชื่อลูกค้า PTTOR และ Asset CAMS
