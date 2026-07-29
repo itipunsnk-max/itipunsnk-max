@@ -19,6 +19,7 @@
 ## 🧩 SAP & Internal Systems
 - [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) (private) - ตัวอย่างการดึงข้อมูล/สคริปต์ที่เกี่ยวกับ SAP
 - [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) (🚧 In Progress) - ตัวอย่างการทำ Automation สำหรับ SAP GUI และ SharePoint
+- [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP.git) (🚧 In Progress) - ตัวอย่างการทำ SAP - Hot Key
 
 ## 🤖 AI / Prompt & Interactive
 - [claude-interactive-course](https://github.com/itipunsnk-max/claude-interactive-course) - คอร์ส / ตัวอย่างเชิงโต้ตอบเกี่ยวกับ Claude
