@@ -10,6 +10,10 @@
 - [8.Electrical_Standard_EIT-2564V.2](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) (private)(🚧 In Progress) - มาตรฐานงานไฟฟ้า EIT 2564
 - [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) (private) - สำหรับอ้างอิงมาตรฐานงานไฟฟ้า
 
+## 🚀 POWER BI Saving Project
+- [0.Vercel : คู่มือทำ Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) - คู่มือทำ Power BI: Tracking Budget & Expense KPI
+- [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project) - แนวทางทำ Project เพื่อรายงานผล
+  
 ## 🕸️ Web Scraping & Service Tracking
 - [API-Postman-Fusion-Python](https://github.com/itipunsnk-max/API-Postman-Fusion-Python) (private) - ตัวอย่าง/สคริปต์การเรียก API ด้วย Python/Postman
 - [101_Data-Engineer_Learning](https://github.com/itipunsnk-max/101_Data-Engineer_Learning) (private) - โน้ต/ตัวอย่างสำหรับ Data Engineer (รวมเทคนิค scraping/data pipelines)
@@ -41,7 +45,7 @@
 
 ## 🧪 Scripts & Knowledge Base & Application
 - [Python_Knowledge_V.1](https://github.com/itipunsnk-max/Python_Knowledge_V.1) (private)(🚧 In Progress : Libraries เช่น Argparse) - บันทึกความรู้ Python
-- [Powershell-zero-to-senior](https://github.com/itipunsnk-max/Powershell-zero-to-senior) (private) - โน้ต Powershell ตั้งแต่พื้นฐานถึงขั้นสูง
+- [Powershell-zero-to-senior](https://github.com/itipunsnk-max/Powershell-zero-to-senior) (private) - โน้ต Powershell ตั้งแต่พื้นฐานถึงขั้นสูง (https://powershell-zero-to-senior.vercel.app/)
 - [BOQ-Estimator-V.1](https://github.com/itipunsnk-max/BOQ-Estimator-V.1) (private) - ตัวอย่างแอป/สเปคสำหรับประเมินราคาเบื้องต้น
 - [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) (private) - App สำหรับ Filter ชื่อลูกค้า PTTOR และ Asset CAMS
 
@@ -65,3 +69,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 🟣 Future Plan
 - [x] 
 - [ ] 
+## Emoji สำหรับ Markdown / GitHub
+✅ ❌ ⚠️ 🚧 ⏳ 🔄 🟢 🟡 🔴 ⛔
+📌 📖 📚 📝 📋 📄 📂 🔖 🔗 💡
+💻 🖥️ ⚙️ 🛠️ 🔧 🐛 🚀 📦 🗄️ 🔐 🔑 🌐 🧪 🔍
+⚡ 🔌 🔋 ☀️ 🏗️ 🏭 📐 📏 🧰 🔩 🦺 🧯
+📊 📈 📉 📅 🕒 📍 🗺️ 🎯 ✨ ⭐
+👤 👥 👷 🙋 🤝 💬 📧 📞 📢 🔔
+⬆️ ⬇️ ⬅️ ➡️ ↔️ 🔼 🔽 ▶️ ⏸️ ⏹️
+➕ ➖ ✖️ ➗ ✔️ ☑️ 🔘 🔹 🔸 ▪️ ▫️
+🆕 🆗 🆙 🆒 🆘 🔥 💯 🏆 🎉 ❤️
