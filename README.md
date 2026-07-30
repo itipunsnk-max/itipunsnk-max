@@ -27,7 +27,7 @@
 - [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP.git) (🚧 In Progress) - ตัวอย่างการทำ SAP - Hot Key
 
 ## 🤖 AI / Prompt & Interactive
-- [claude-interactive-course](https://github.com/itipunsnk-max/claude-interactive-course) - คอร์ส / ตัวอย่างเชิงโต้ตอบเกี่ยวกับ Claude
+- **Fork** [claude-interactive-course](https://github.com/itipunsnk-max/claude-interactive-course) - คอร์ส / ตัวอย่างเชิงโต้ตอบเกี่ยวกับ Claude
 - [Codex_Skill-Claude-_Prompt](https://github.com/itipunsnk-max/Codex_Skill-Claude-_Prompt) - ทดลองวิธีการ prompt และทดสอบกับ Claude / Codex
 - [--ChatGPT-Codex-Skills-Plugins-V2](https://github.com/itipunsnk-max/--ChatGPT-Codex-Skills-Plugins-V2) (private) - ตัวอย่าง/สกิลที่เกี่ยวกับ ChatGPT / Codex / Plugins
 
