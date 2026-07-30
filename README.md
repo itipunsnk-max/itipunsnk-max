@@ -32,13 +32,12 @@
 - [--ChatGPT-Codex-Skills-Plugins-V2](https://github.com/itipunsnk-max/--ChatGPT-Codex-Skills-Plugins-V2) (private) - ตัวอย่าง/สกิลที่เกี่ยวกับ ChatGPT / Codex / Plugins
 
 ## 📊 Learning CMMS & Supabase
-- 🟢 [CMMS Topic & Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) - ตัวอย่างการใช้ Supabase / PostgreSQL (https://cmms-learning-roadmap.netlify.app/week-06/)
+- 🟢 [CMMS Topic & Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) - ตัวอย่างการใช้ Supabase / PostgreSQL --> https://cmms-learning-roadmap.netlify.app/week-06/
 - 🟡 [Supabase_LearningV.1](https://github.com/itipunsnk-max/Supabase_LearningV.1) (🚧 In Progress) - เรียนรู้การใช้ Supabase
 
 ## 📊 Learning & Documentation
-- [ebook-for-education](https://github.com/itipunsnk-max/ebook-for-education) - เอกสารแจกประกอบการสอน
-- [Learning-Git-Github-Codex-book](https://github.com/itipunsnk-max/Learning-Git-Github-Codex-book) - โน้ต/หนังสือเรียนเกี่ยวกับ Git/GitHub/Codex
-
+- [Kongruksiamza - ebook-for-education](https://github.com/itipunsnk-max/ebook-for-education) - เอกสารแจกประกอบการสอน
+- 🟢 [Learning-Git-Github-Codex-book](https://github.com/itipunsnk-max/Learning-Git-Github-Codex-book) - โน้ต/หนังสือเรียนเกี่ยวกับ Git/GitHub/Codex --> https://learning-git-github-codex-book.netlify.app/
 - [Codex_GitHub_ManualV.1](https://github.com/itipunsnk-max/Codex_GitHub_ManualV.1) (private) - เอกสารคู่มือเกี่ยวกับ Codex/GitHub
 
 ## 🧰 Tools & Utilities
@@ -48,7 +47,7 @@
 
 ## 🧪 Scripts & Knowledge Base & Application
 - [Python_Knowledge_V.1](https://github.com/itipunsnk-max/Python_Knowledge_V.1) (private)(🚧 In Progress : Libraries เช่น Argparse) - บันทึกความรู้ Python
-- [Powershell-zero-to-senior](https://github.com/itipunsnk-max/Powershell-zero-to-senior) (private) - โน้ต Powershell ตั้งแต่พื้นฐานถึงขั้นสูง (https://powershell-zero-to-senior.vercel.app/)
+- [Powershell-zero-to-senior](https://github.com/itipunsnk-max/Powershell-zero-to-senior) (private) - โน้ต Powershell ตั้งแต่พื้นฐานถึงขั้นสูง --> https://powershell-zero-to-senior.vercel.app/
 - 🟢 [BOQ-Estimator-V.1](https://github.com/itipunsnk-max/BOQ-Estimator-V.1) (private) - ตัวอย่างแอป/สเปคสำหรับประเมินราคาเบื้องต้น
 - 🟢 [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) (private) - App สำหรับ Filter ชื่อลูกค้า PTTOR และ Asset CAMS
 
