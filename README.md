@@ -61,7 +61,7 @@
 
 หมายเหตุ
 - รายการที่ระบุเป็น (private) เป็นรีโพส่วนตัว
-- Link การเขียน Syntax :
+- Link การเขียน Syntax : [x] [ ] 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 🔴 Critical  
 🟠 High Priority  
@@ -69,8 +69,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 🟢 Completed  
 🔵 Information  
 🟣 Future Plan
-- [x] 
-- [ ] 
 ## Emoji สำหรับ Markdown / GitHub
 ✅ ❌ ⚠️ 🚧 ⏳ 🔄 🟢 🟡 🔴 ⛔
 📌 📖 📚 📝 📋 📄 📂 🔖 🔗 💡
