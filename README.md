@@ -11,7 +11,7 @@
 - [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) (private) - สำหรับอ้างอิงมาตรฐานงานไฟฟ้า
 
 ## 🚀 POWER BI Saving Project
-- [0.Vercel : คู่มือทำ Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) - คู่มือทำ Power BI: Tracking Budget & Expense KPI
+- [0.Vercel (Deploy) : คู่มือทำ Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) - คู่มือทำ Power BI: Tracking Budget & Expense KPI
 - [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project) - แนวทางทำ Project เพื่อรายงานผล
   
 ## 🕸️ Web Scraping & Service Tracking
