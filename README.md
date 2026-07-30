@@ -36,9 +36,9 @@
 - 🟡 [Supabase_LearningV.1](https://github.com/itipunsnk-max/Supabase_LearningV.1) (🚧 In Progress) - เรียนรู้การใช้ Supabase
 
 ## 📊 Learning & Documentation
+- [Codex_GitHub_ManualV.1](https://github.com/itipunsnk-max/Codex_GitHub_ManualV.1) (private) - เอกสารคู่มือเกี่ยวกับ Codex/GitHub
 - [Kongruksiamza - ebook-for-education](https://github.com/itipunsnk-max/ebook-for-education) - เอกสารแจกประกอบการสอน
 - 🟢 [Learning-Git-Github-Codex-book](https://github.com/itipunsnk-max/Learning-Git-Github-Codex-book) - โน้ต/หนังสือเรียนเกี่ยวกับ Git/GitHub/Codex --> https://learning-git-github-codex-book.netlify.app/
-- [Codex_GitHub_ManualV.1](https://github.com/itipunsnk-max/Codex_GitHub_ManualV.1) (private) - เอกสารคู่มือเกี่ยวกับ Codex/GitHub
 
 ## 🧰 Tools & Utilities
 - [WhereMyTokens](https://github.com/itipunsnk-max/WhereMyTokens) - แอปสำหรับตรวจสอบการใช้ tokens/costs ของ Claude/Codex (Windows tray)
