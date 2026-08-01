@@ -33,7 +33,7 @@
 - [--ChatGPT-Codex-Skills-Plugins-V2](https://github.com/itipunsnk-max/--ChatGPT-Codex-Skills-Plugins-V2) (private) - ตัวอย่าง/สกิลที่เกี่ยวกับ ChatGPT / Codex / Plugins
 
 ## 📊 Learning CMMS & Supabase
-- 🟢 [CMMS Topic & Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) - ตัวอย่างการใช้ Supabase / PostgreSQL — https://cmms-learning-roadmap.netlify.app/week-06/
+- 🟢 [CMMS Topic & Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) - ตัวอย่างการใช้ Supabase / PostgreSQL --> https://cmms-learning-roadmap.netlify.app/week-06/
 - 🔴 [Supabase_LearningV.1](https://github.com/itipunsnk-max/Supabase_LearningV.1) (🚧 In Progress) - เรียนรู้การใช้ Supabase
 
 ## 📊 Learning & Documentation
