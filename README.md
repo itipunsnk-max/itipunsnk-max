@@ -53,7 +53,8 @@
 - 🟢 [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) (private) - App สำหรับ Filter ชื่อลูกค้า PTTOR และ Asset CAMS
 
 ## 📦 Inventory-Management-System
-- 🔴 [Inventory-Management-SystemV1](https://github.com/itipunsnk-max/14.Inventory-Management-System_V.1) (🚧 In Progress ) - ระบบ Inventory Management System Protoype V.1 
+- 🔴 [Inventory-Management-System.V1 : Website MVP](https://github.com/itipunsnk-max/14.Inventory-Management-System_V.1) (🚧 In Progress ) - ระบบ Inventory Management System Protoype V.1 
+- 🔴 [Inventory-POWER-BI_POWERAPPS.V2 : Website MVP](https://github.com/itipunsnk-max/14.Inventory-Management-System_V.1) (🚧 In Progress ) - ระบบ Inventory Management System Protoype V.1 
 
 ## 📦 รีโพสิตอรี่ของโปรไฟล์ / ตัวเก็บรวม
 - [itipunsnk-max](https://github.com/itipunsnk-max/itipunsnk-max) - รีโพหลักของโปรไฟล์ (For Learning)
