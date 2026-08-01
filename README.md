@@ -84,9 +84,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 🆕 🆗 🆙 🆒 🆘 🔥 💯 🏆 🎉 ❤️
 
 ## 🧪 Microsoft Copilot Agents - Deploy MS365
-- 🟢 https://m365.cloud.microsoft/chat/?titleId=T_23745e12-7e6e-2fe4-2e33-c3a099a9c06f&source=agentCenterDialog - Agent (M365 Copilot)
-ตรวจสอบฐานการออกแบบไฟฟ้า-Solar-PVSyst (Allow ungrounded responses = Off)
-
-- 🟢 https://m365.cloud.microsoft/chat/?titleId=T_aeda2251-f8b9-7bc0-e284-97d5d989d74e&source=agentCenterDialog - Agent (M365 Copilot)
-ตรวจสอบ TOR งานก่อสร้างสถานีบริการน้ำมัน (Allow ungrounded responses = ON)
+- 🟢 https://m365.cloud.microsoft/chat/?titleId=T_23745e12-7e6e-2fe4-2e33-c3a099a9c06f&source=agentCenterDialog 
+Agent (M365 Copilot) ตรวจสอบฐานการออกแบบไฟฟ้า-Solar-PVSyst (Allow ungrounded responses = Off)
+- 🟢 https://m365.cloud.microsoft/chat/?titleId=T_aeda2251-f8b9-7bc0-e284-97d5d989d74e&source=agentCenterDialog 
+Agent (M365 Copilot) ตรวจสอบ TOR งานก่อสร้างสถานีบริการน้ำมัน (Allow ungrounded responses = ON)
 
