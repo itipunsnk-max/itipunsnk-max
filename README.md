@@ -14,6 +14,9 @@
 ## 🚀 POWER BI Saving Project
 - 🟢 [0.Vercel (Deploy) : คู่มือทำ Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) - คู่มือทำ Power BI: Tracking Budget & Expense KPI
 - 🟠 [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project) (🚧 In Progress) - แนวทางทำ Project เพื่อรายงานผล
+
+## 🚀 Service_Tracking Project
+- 🟠 [16.Service_Tracking_DashboardV.1](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) (🚧 In Progress) - แนวทางทำ Project เพื่อรายงานผล
   
 ## 🕸️ Web Scraping & Service Tracking
 - 🟢 [API-Postman-Fusion-Python](https://github.com/itipunsnk-max/API-Postman-Fusion-Python) (private) - ตัวอย่าง/สคริปต์การเรียก API ด้วย Python/Postman
