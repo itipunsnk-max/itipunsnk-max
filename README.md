@@ -38,7 +38,7 @@
 
 ## 📊 Learning CMMS & Supabase
 - 🟢 [CMMS Topic & Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) - ตัวอย่างการใช้ Supabase / PostgreSQL --> https://cmms-learning-roadmap.netlify.app/week-06/
-- 🟢 [Supabase_LearningV.1](https://github.com/itipunsnk-max/Supabase_LearningV.1) (🚧 In Progress) - เรียนรู้การใช้ Supabase
+- 🟢 [Supabase_LearningV.1](https://github.com/itipunsnk-max/Supabase_LearningV.1) (🚧 In Progress) - เรียนรู้การใช้ Supabase ---> https://supabase-learning-v-1.vercel.app/
 
 ## 📊 Learning & Documentation
 - [Codex_GitHub_ManualV.1](https://github.com/itipunsnk-max/Codex_GitHub_ManualV.1) (private) - เอกสารคู่มือเกี่ยวกับ Codex/GitHub
