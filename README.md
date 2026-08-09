@@ -38,7 +38,6 @@
 | 🟡     | [**Solar Cable / Wiring / Raceway**](https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1) 🔐    | Cable sizing, Voltage Drop, Raceway / Wireway | —                                                              |
 | 🔴     | [**Electrical Standard EIT 2564 V.2**](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) 🔐 | Knowledge base มาตรฐานงานไฟฟ้า                | —                                                              |
 | 🟠     | [**Power BI Saving Project**](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)                     | Dashboard และแนวทางรายงาน Saving Project      | [🌐 Live](https://power-bi-saving-project.vercel.app/)         |
-| 🟠     | [**Service Tracking Dashboard V.1**](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐     | Dashboard ติดตามงาน Service                   | [🌐 Live](https://service-tracking-dashboard-v-1.vercel.app/)|
 | 🔴     | [**Inventory Management System V.2**](https://github.com/itipunsnk-max/Inventory-POWER-BI_POWERAPPS.V2.git) 🔐 | Power BI + Power Apps Prototype               | [🌐 Live](https://inventory-power-bi-powerapps-v2.vercel.app/) |
 
 > 🔐 = Private repository
@@ -71,6 +70,7 @@
 
 | Status | Repository                                                                                            | รายละเอียด                                                                     |
 | ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 🟠     | [**Service Tracking Dashboard V.1**](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐     | Dashboard ติดตามงาน Service                   | [🌐 Live](https://service-tracking-dashboard-v-1.vercel.app/)|
 | 🟠     | [16.Service_Tracking_DashboardV.1](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐 | Dashboard สำหรับติดตามงาน Service — อยู่ระหว่างเพิ่ม Map, AI และฟังก์ชันอื่น ๆ |
 
 ---
