@@ -77,7 +77,7 @@
 ## 🛠️ Project-Management
 | Status | Repository                                                                                            | รายละเอียด                                                                     |
 | ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 🔴     | [17.Project_Management_S-Curve](https://github.com/itipunsnk-max/Project_Management_S-Curve) 🔐 | Project_Management_S-Curve — สำหรับจัดทำแผนงานโครงการ Auto | [🌐 Live](https://project-management-s-curve.vercel.app) |
+| 🔴     | [17.Project_Management_S-Curve](https://github.com/itipunsnk-max/Project_Management_S-Curve) 🔐 | Project_Management_S-Curve — สำหรับจัดทำแผนงานโครงการ Auto • [🌐 Live](https://project-management-s-curve.vercel.app) |
 
 
 ## 🕸️ Web Scraping & Data Engineering
