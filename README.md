@@ -71,9 +71,15 @@
 
 | Status | Repository                                                                                            | รายละเอียด                                                                     |
 | ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 🟠     | [16.Service_Tracking_DashboardV.1](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐 | Dashboard สำหรับติดตามงาน Service — อยู่ระหว่างเพิ่ม Map, AI และฟังก์ชันอื่น ๆ |
+| 🟠     | [16.Service_Tracking_DashboardV.1](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐 | Dashboard สำหรับติดตามงาน Service|
 
 ---
+## 🛠️ Project-Management
+| Status | Repository                                                                                            | รายละเอียด                                                                     |
+| ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 🔴     | [17.Project_Management_S-Curve](https://github.com/itipunsnk-max/Project_Management_S-Curve) 🔐 | Project_Management_S-Curve — สำหรับจัดทำแผนงานโครงการ Auto |
+
+
 
 ## 🕸️ Web Scraping & Data Engineering
 
