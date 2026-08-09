@@ -8,7 +8,7 @@
 - 🟢 [6.Design_PV_Layout_Solar-Rooftop](https://github.com/itipunsnk-max/Design_PV_Layout_Solar-Rooftop) (private) - การออกแบบแผงโซลาร์บนหลังคา
 - 🟡 [7.Solar-CABLE-Wiring-Raceway-V.1](https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1) (private)(🚧 In Progress) - การออกสายไฟ + Voltage Drop และ Raceway/Wireway
 - 🔴 [8.Electrical_Standard_EIT-2564V.2](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) (private)(🚧 In Progress) - มาตรฐานงานไฟฟ้า EIT 2564
-- 🟢 [10.Pump-Water-Cleaning](https://github.com/itipunsnk-max/10.--Pump-Water-Cleaning) (🚧 In Progress) - แนวทางการออกแบบปั๊ม Water Cleaning งาน Solar Rooftop --> https://10-pump-water-cleaning-ceqwqrvjg-itthiphan.vercel.app/
+- 🟢 [10.Pump-Water-Cleaning](https://github.com/itipunsnk-max/10.--Pump-Water-Cleaning) - แนวทางการออกแบบปั๊ม Water Cleaning งาน Solar Rooftop --> https://10-pump-water-cleaning-ceqwqrvjg-itthiphan.vercel.app/
 - 🔴 [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) (private) - สำหรับอ้างอิงมาตรฐานงานไฟฟ้า
 
 ## 🚀 POWER BI Saving Project
