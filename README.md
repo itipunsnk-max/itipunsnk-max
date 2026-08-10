@@ -27,7 +27,8 @@
 [📦 Inventory](#-inventory-management-system) •
 [📚 Learning](#-learning--documentation) •
 [🧰 Tools](#-tools--utilities)
-
+---
+https://learn.microsoft.com/en-us/power-bi/developer/mcp/remote-mcp-server-get-started
 https://github.com/microsoft/powerbi-modeling-mcp
 ---
 
