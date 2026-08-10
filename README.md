@@ -28,6 +28,7 @@
 [📚 Learning](#-learning--documentation) •
 [🧰 Tools](#-tools--utilities)
 
+https://github.com/microsoft/powerbi-modeling-mcp
 ---
 
 ## ⭐ Featured Projects
