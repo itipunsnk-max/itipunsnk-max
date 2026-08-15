@@ -66,6 +66,7 @@
 | ------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 🟢     | [Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) | คู่มือสร้าง Power BI สำหรับ Budget / Expense KPI                                               |
 | 🟠     | [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)   | แนวทางทำ Saving Project และ Dashboard • [🌐 Live](https://power-bi-saving-project.vercel.app/) |
+| 🟠     | [3.2.MCP_POWER-BI_Saving_Project]([https://github.com/itipunsnk-max/POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI
 
 ---
 
