@@ -123,7 +123,7 @@
 
 | Status | Repository                                                                                  | รายละเอียด                                                                                      |
 | ------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 🟢     | [Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) | CMMS + Supabase + PostgreSQL • [🌐 Roadmap](https://cmms-learning-roadmap.netlify.app/week-06/) |
+| 🟢     | [Learning-Supabase-ProgreSQL](https://github.com/itipunsnk-max/Learning-Supabase-ProgreSQL) | CMMS + Supabase + PostgreSQL • [🌐 Roadmap](https://cmms-learning-roadmap.netlify.app/) |
 | 🟢     | [Supabase_LearningV.1](https://github.com/itipunsnk-max/Supabase_LearningV.1)               | เรียนรู้ Supabase ตั้งแต่พื้นฐาน • [🌐 Live](https://supabase-learning-v-1.vercel.app/)         |
 
 ---
