@@ -100,8 +100,9 @@
 | Status | Repository                                                                                              | รายละเอียด                                          |
 | ------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 🔵     | [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) 🔐                                | ตัวอย่างการดึงข้อมูลและ Script ที่เกี่ยวข้องกับ SAP |
-| 🟠     | [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint           |
+| 🚧     | [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint           |
 | 🟡     | [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP.git) 🔐    | AutoHotkey สำหรับ SAP Workflow                      |
+| 🟠     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint           |
 
 ---
 
