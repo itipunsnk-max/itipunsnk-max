@@ -42,6 +42,7 @@
 | 🟠     | [**Power BI Saving Project**](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)                     | Dashboard และแนวทางรายงาน Saving Project      | [🌐 Live](https://power-bi-saving-project.vercel.app/)|
 | 🟠     | [**Service Tracking Dashboard V.1**](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐     | Dashboard ติดตามงาน Service                   | [🌐 Live](https://service-tracking-dashboard-v-1.vercel.app/)|
 | 🔴     | [**Inventory Management System V.2**](https://github.com/itipunsnk-max/Inventory-POWER-BI_POWERAPPS.V2.git) 🔐 | Power BI + Power Apps Prototype               | [🌐 Live](https://inventory-power-bi-powerapps-v2.vercel.app/) |
+| 🟢     | [**Sap-gui-sharepoint-automation**](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           | —  
 
 > 🔐 = Private repository
 
@@ -100,9 +101,9 @@
 | Status | Repository                                                                                              | รายละเอียด                                          |
 | ------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 🔵     | [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) 🔐                                | ตัวอย่างการดึงข้อมูลและ Script ที่เกี่ยวข้องกับ SAP |
-| ยกเลิก     | [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint           |
-| 🟡     | [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP.git) 🔐    | AutoHotkey สำหรับ SAP Workflow                      |
+| ยกเลิก     | [8.2.Sap-gui-sharepoint-automation.V.1](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint (ยกเลิก)           |
 | 🟢     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           |
+| 🟡     | [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP.git) 🔐    | AutoHotkey สำหรับ SAP Workflow                      |
 
 ---
 
