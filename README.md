@@ -65,9 +65,9 @@
 | Status | Project                                                                                   | รายละเอียด                                                                                     |
 | ------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 🟢     | [Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) | คู่มือสร้าง Power BI สำหรับ Budget / Expense KPI                                               |
-| 🟠     | [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)   | แนวทางทำ Saving Project และ Dashboard • [🌐 Live](https://power-bi-saving-project.vercel.app/) |
+| 🟢     | [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)   | แนวทางทำ Saving Project และ Dashboard • [🌐 Live](https://power-bi-saving-project.vercel.app/) |
 | 🟠     | [3.2.MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI
-| 🟠     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
+| 🟢     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 
 ---
 
@@ -100,9 +100,9 @@
 | Status | Repository                                                                                              | รายละเอียด                                          |
 | ------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 🔵     | [Sap_scraping_V.1](https://github.com/itipunsnk-max/Sap_scraping_V.1) 🔐                                | ตัวอย่างการดึงข้อมูลและ Script ที่เกี่ยวข้องกับ SAP |
-| 🚧     | [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint           |
+| ยกเลิก     | [8.2.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint           |
 | 🟡     | [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP.git) 🔐    | AutoHotkey สำหรับ SAP Workflow                      |
-| 🟠     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           |
+| 🟢     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           |
 
 ---
 
