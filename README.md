@@ -61,7 +61,7 @@
 | 🔴     | [8.Electrical_Standard_EIT-2564V.2](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) 🔐 | มาตรฐานงานไฟฟ้า EIT 2564                                                                                                          |
 | 🟢     | [10.Pump-Water-Cleaning](https://github.com/itipunsnk-max/10.--Pump-Water-Cleaning)                      | แนวทางออกแบบ Pump Water Cleaning สำหรับ Solar Rooftop • [🌐 Live](https://10-pump-water-cleaning-ceqwqrvjg-itthiphan.vercel.app/) |
 | 🔴     | [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) 🔐     | Repository สำหรับอ้างอิงมาตรฐานงานไฟฟ้า 
-| 🟢     | [12.Streamlit-Inverter-AC--Transformer](https://github.com/itipunsnk-max/12.Streamlit-Inverter-AC--Transformer) 🔐| Streamlit-Inverter-AC--Transformer |
+| 🟢     | [12.Streamlit-Inverter-AC--Transformer](https://github.com/itipunsnk-max/12.Streamlit-Inverter-AC--Transformer) | Streamlit-Inverter-AC--Transformer | • [🌐 Live] (https://inverter-ac-cable-to-transformer.streamlit.app/) |
 
 ---
 
