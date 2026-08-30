@@ -44,7 +44,7 @@
 | 🔴     | [**Inventory Management System V.2**](https://github.com/itipunsnk-max/Inventory-POWER-BI_POWERAPPS.V2.git) 🔐 | Power BI + Power Apps Prototype               | [🌐 Live](https://inventory-power-bi-powerapps-v2.vercel.app/) |
 | 🟢     | [**Sap-gui-sharepoint-automation**](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           | —  
 | 🟢🟢     | [MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI  | —  
-| 🟢🟢     | [CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data  | —  
+| 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-             | —  
 
 
 > 🔐 = Private repository
@@ -72,7 +72,7 @@
 | 🟢     | [Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) | คู่มือสร้าง Power BI สำหรับ Budget / Expense KPI                                               |
 | 🟢     | [3.1.POWER-BI_Saving_Project](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)   | แนวทางทำ Saving Project และ Dashboard • [🌐 Live](https://power-bi-saving-project.vercel.app/) |
 | 🟢🟢     | [3.2.MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI
-| 🟢🟢     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
+| 🟢     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-
 
 ---
