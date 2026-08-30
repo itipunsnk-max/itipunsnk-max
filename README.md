@@ -43,7 +43,7 @@
 | 🟠     | [**Service Tracking Dashboard V.1**](https://github.com/itipunsnk-max/Service_Tracking_DashboardV.1) 🔐     | Dashboard ติดตามงาน Service                   | [🌐 Live](https://service-tracking-dashboard-v-1.vercel.app/)|
 | 🔴     | [**Inventory Management System V.2**](https://github.com/itipunsnk-max/Inventory-POWER-BI_POWERAPPS.V2.git) 🔐 | Power BI + Power Apps Prototype               | [🌐 Live](https://inventory-power-bi-powerapps-v2.vercel.app/) |
 | 🟢     | [**Sap-gui-sharepoint-automation**](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           | —  
-| 🟢🟢     | [MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI  | —  
+| 🟢🟢     | [3.2.MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI  | —  
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-             | —  
 
 
