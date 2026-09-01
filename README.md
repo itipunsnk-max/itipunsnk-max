@@ -45,6 +45,7 @@
 | 🟢     | [**Sap-gui-sharepoint-automation**](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           | —  
 | 🟢🟢     | [3.2.MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI  | —  
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-             | —  
+| 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | —  
 
 
 > 🔐 = Private repository
@@ -168,7 +169,6 @@
 | 🔐   | [Insatall_NPM_Node.js](https://github.com/itipunsnk-max/Insatall_NPM_Node.js)      | คู่มือติดตั้ง Node.js แบบ Portable                         |
 | 🟢   | [BOQ-Estimator-V.1](https://github.com/itipunsnk-max/BOQ-Estimator-V.1) 🔐         | Application / Specification สำหรับประเมินราคาเบื้องต้น     |
 | 🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | App สำหรับ Filter ลูกค้า PTTOR และ Asset CAMS              |
-| 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) |
 
 ---
 
