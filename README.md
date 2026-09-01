@@ -45,7 +45,7 @@
 | 🟢     | [**Sap-gui-sharepoint-automation**](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           | —  
 | 🟢🟢     | [3.2.MCP_POWER-BI_Saving_Project](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI  | —  
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-             | —  
-| 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | —  
+| 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | [🌐 Live](https://17-map-optimozation-application-3m3wlv7ee-itthiphan.vercel.app/)  
 
 
 > 🔐 = Private repository
