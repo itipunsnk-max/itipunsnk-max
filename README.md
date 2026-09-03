@@ -76,6 +76,7 @@
 | 🟢     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-
 | 🟢🟢     | [3.5.Power-BI-MR](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR
+| 🟢     | [3.52.MR-Script](https://github.com/itipunsnk-max/3.52.MR-Script)   | 3.52.MR-Script
 
 
 ---
