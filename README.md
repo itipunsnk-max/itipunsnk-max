@@ -170,6 +170,8 @@
 | 🔐   | [Insatall_NPM_Node.js](https://github.com/itipunsnk-max/Insatall_NPM_Node.js)      | คู่มือติดตั้ง Node.js แบบ Portable                         |
 | 🟢   | [BOQ-Estimator-V.1](https://github.com/itipunsnk-max/BOQ-Estimator-V.1) 🔐         | Application / Specification สำหรับประเมินราคาเบื้องต้น     |
 | 🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | App สำหรับ Filter ลูกค้า PTTOR และ Asset CAMS              |
+| 🟢🟢   | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill แบบ Open Source สำหรับ Claude Code, Codex              |
+
 
 ---
 
