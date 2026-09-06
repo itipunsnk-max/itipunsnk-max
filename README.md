@@ -46,6 +46,7 @@
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-             | —  
 | 🟢🟢     | [3.5.Power-BI-MR](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR | —  
 | 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | [🌐 Live](https://17-map-optimozation-application-3m3wlv7ee-itthiphan.vercel.app/)  
+| Fork  | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill แบบ Open Source สำหรับ Claude Code, Codex  | — 
 
 
 > 🔐 = Private repository
