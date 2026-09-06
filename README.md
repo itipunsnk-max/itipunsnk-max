@@ -79,7 +79,7 @@
 | 🟢🟢     | [3.5.Power-BI-MR](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR
 | 🟢     | [3.52.MR-Script](https://github.com/itipunsnk-max/3.52.MR-Script)   | 3.52.MR-Script
 -----
-| 🟢     | [22.POWER-BI_CAPEX_Project](https://github.com/itipunsnk-max/22.POWER-BI_CAPEX_Project)   | 22.POWER-BI_CAPEX_Project
+| 🟢🟢     | [22.POWER-BI_CAPEX_Project](https://github.com/itipunsnk-max/22.POWER-BI_CAPEX_Project)   | 22.POWER-BI_CAPEX_Project
 
 
 ---
