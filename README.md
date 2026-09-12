@@ -78,6 +78,8 @@
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-
 | 🟢🟢     | [3.5.Power-BI-MR(**2.3**)](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR
 | 🟢     | [3.52.MR-Script (**Phython Excel**)](https://github.com/itipunsnk-max/3.52.MR-Script)   | 3.52.MR-Script
+| 🔴🔴 | [2.4.Power-BI-Cost-Saving)](https://github.com/itipunsnk-max/2.4.Power-BI-Cost-Saving)   | Power-BI-Cost-Saving --> Working/Cleansing
+
 -----
 | 🟢🟢     | [22.POWER-BI_CAPEX_Project (**อยู่ระหว่างดำเนินการ**)](https://github.com/itipunsnk-max/22.POWER-BI_CAPEX_Project)   | 22.POWER-BI_CAPEX_Project
 
