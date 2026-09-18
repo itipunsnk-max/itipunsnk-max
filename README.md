@@ -74,7 +74,6 @@
 | 🚧     | [Power BI: Tracking Budget & Expense KPI](https://power-bi-budget-kpi-guide.netlify.app/) | คู่มือสร้าง Power BI สำหรับ Budget / Expense KPI                                               |
 | 🚧     | [3.1.POWER-BI_Saving_Project (**3.Transformation**)](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)   | แนวทางทำ Saving Project และ Dashboard • [🌐 Live](https://power-bi-saving-project.vercel.app/) |
 | 🟡     | [3.2.MCP_POWER-BI_Saving_Project (**2.1**)](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI
-| 🚧     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 | 🟢🟢     | [3.5.Power-BI-MR(**2.3**)](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR
 | 🔴🔴 | [2.4.Power-BI-Cost-Saving)](https://github.com/itipunsnk-max/2.4.Power-BI-Cost-Saving)   | Power-BI-Cost-Saving --> Working/Cleansing
 
@@ -83,6 +82,7 @@
 ## 📊 AUTOMATION
 | Status | Project                                                                                   | รายละเอียด                                                                                     |
 | ------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 🚧     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 | 🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-
 | 🟢     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint      
 | 🟢     | [3.52.MR-Script (**Phython Excel**)](https://github.com/itipunsnk-max/3.52.MR-Script)   | 3.52.MR-Script
