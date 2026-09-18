@@ -82,7 +82,7 @@
 ## 📊 AUTOMATION
 | Status | Project                                                                                   | รายละเอียด                                                                                     |
 | ------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🚧     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
+| 🟡 (ต้นแบบ 3.4)     | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 | 🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-
 | 🟢     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint      
 | 🟢     | [3.52.MR-Script (**Phython Excel**)](https://github.com/itipunsnk-max/3.52.MR-Script)   | 3.52.MR-Script
