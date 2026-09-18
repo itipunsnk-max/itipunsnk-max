@@ -75,7 +75,7 @@
 | 🚧     | [3.1.POWER-BI_Saving_Project (**3.Transformation**)](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)   | แนวทางทำ Saving Project และ Dashboard • [🌐 Live](https://power-bi-saving-project.vercel.app/) |
 | 🟡     | [3.2.MCP_POWER-BI_Saving_Project (**2.1**)](https://github.com/itipunsnk-max/3.2.MCP_POWER-BI_Saving_Project)   | MCP for POWER BI
 | 🟢🟢     | [3.5.Power-BI-MR(**2.3**)](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR
-| 🔴🔴 | [2.4.Power-BI-Cost-Saving)](https://github.com/itipunsnk-max/2.4.Power-BI-Cost-Saving)   | Power-BI-Cost-Saving --> Working/Cleansing
+| 🔴🔴 | [2.4.Power-BI-Cost-Saving](https://github.com/itipunsnk-max/2.4.Power-BI-Cost-Saving)   | Power-BI-Cost-Saving --> Working/Cleansing
 
 | 🚧     | **[22.POWER-BI_CAPEX_Project (**อยู่ระหว่างดำเนินการ**)](https://github.com/itipunsnk-max/22.POWER-BI_CAPEX_Project)**   | 22.POWER-BI_CAPEX_Project
 --------------------
