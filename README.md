@@ -159,7 +159,7 @@
 | 🟢   | [Learning-Git-Github-Codex-book](https://github.com/itipunsnk-max/Learning-Git-Github-Codex-book) | Git / GitHub / Codex Notes • [🌐 Book](https://learning-git-github-codex-book.netlify.app/)    |
 | 🟡   | [Python_Knowledge_V.1](https://github.com/itipunsnk-max/Python_Knowledge_V.1) 🔐                  | Python Knowledge Base และ Libraries เช่น Argparse                                              |
 | 🔵   | [Powershell-zero-to-senior](https://github.com/itipunsnk-max/Powershell-zero-to-senior) 🔐        | PowerShell ตั้งแต่พื้นฐานถึงขั้นสูง • [🌐 Live](https://powershell-zero-to-senior.vercel.app/) |
-
+| 🟢   | [Learning-codex-workflow-guide](https://github.com/itipunsnk-max/19.codex-workflow-guide) | codex-workflow-guide •    |
 ---
 
 ## 🧰 Tools & Utilities
