@@ -45,9 +45,9 @@
 | 🟢     | [**Sap-gui-sharepoint-automation**](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint           | —  
 | 🟢🟢     | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-             | —  
 | 🟢🟢     | [3.5.Power-BI-MR](https://github.com/itipunsnk-max/3.5.Power-BI-MR)   | P3.5.Power-BI-MR | —  
+| 🟢🟢🟢     | [2.4.Power-BI-Cost-Saving](https://github.com/itipunsnk-max/2.4.Power-BI-Cost-Saving)   | 2.4.Power-BI-Cost-Saving [Main] | —  
 | 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | [🌐 Live](https://17-map-optimozation-application-3m3wlv7ee-itthiphan.vercel.app/)  
 | Fork | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill  | — 
-
 
 > 🔐 = Private repository
 
