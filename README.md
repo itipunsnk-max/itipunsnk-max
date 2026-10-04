@@ -122,6 +122,8 @@
 | ยกเลิก     | [8.2.Sap-gui-sharepoint-automation.V.1](https://github.com/itipunsnk-max/8.2.Sap-gui-sharepoint-automation) | Automation ระหว่าง SAP GUI และ SharePoint (ยกเลิก)           |
 | 🟡     | [8.4.Auto-Hotkey_Build-For-SAP](https://github.com/itipunsnk-max/8.4.Auto-Hotkey_Build-For-SAP) 🔐    | AutoHotkey สำหรับ SAP Workflow                      |
 | 🟢🟢     | [SAP_AS03_Asset_AutoRead V.1](https://github.com/itipunsnk-max/SAP_AS03_Asset_AutoRead) 🔐    | SAP_AS03_Asset_AutoRead V.1                     |
+| 🟢🟢     | [SAP-Functional-Location_IH06_IL01](https://github.com/itipunsnk-max/SAP-Functional-Location_IH06_IL01) 🔐    | SAP-Functional-Location_IH06_IL01                     |
+
 
 
 ---
