@@ -184,6 +184,8 @@
 | 🟢🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | App สำหรับ Filter ลูกค้า PTTOR และ Asset CAMS              |
 | Fork  | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill แบบ Open Source สำหรับ Claude Code, Codex  |
 | Fork | [Machine Learning in Python](https://github.com/itipunsnk-max/Statistics-and-Machine-Learning-in-Python)| แบบฝึกหัด - ลงมือ Statistics and Machine Learning in Python |
+| Fork-OCR | [Machine Learning in Python](https://github.com/itipunsnk-max/markitdown)| markitdown - OCR แปลงเป็น .md - ครื่องมือฟรีจาก Microsoft ที่แปลงไฟล์ให้เป็น Markdown  [🌐 FB](https://www.facebook.com/photo/?fbid=122121092451427468&set=a.122106683529427468)|
+
 
 
 ---
