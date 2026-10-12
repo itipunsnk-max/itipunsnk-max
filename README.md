@@ -49,6 +49,7 @@
 | 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | [🌐 Live](https://17-map-optimozation-application-3m3wlv7ee-itthiphan.vercel.app/)  
 | Fork | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill  | — 
 | 🔴| [แก้ Onedrive](https://github.com/itipunsnk-max/Fix-OneDrive-Pasue_FreeSpace_-_Download)  | Fix-OneDrive-Pasue_FreeSpace_-_Downloa  | — 
+| 🟢🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | App สำหรับ Filter ลูกค้า PTTOR และ Asset CAMS / Streamlit / 1.3.Streamlit for Map V.3 (CODEX-Cloud)   | — 
 
 > 🔐 = Private repository
 
@@ -181,7 +182,7 @@
 | Fork | [fzf](https://github.com/itipunsnk-max/fzf)                                        | Fuzzy Finder สำหรับ Command Line                           |
 | 🔐   | [Insatall_NPM_Node.js](https://github.com/itipunsnk-max/Insatall_NPM_Node.js)      | คู่มือติดตั้ง Node.js แบบ Portable                         |
 | 🟢   | [BOQ-Estimator-V.1](https://github.com/itipunsnk-max/BOQ-Estimator-V.1) 🔐         | Application / Specification สำหรับประเมินราคาเบื้องต้น     |
-| 🟢🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | App สำหรับ Filter ลูกค้า PTTOR และ Asset CAMS              |
+| 🟢🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | App สำหรับ Filter ลูกค้า PTTOR และ Asset CAMS / Streamlit / 1.3.Streamlit for Map V.3 (CODEX-Cloud)   |
 | Fork  | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill แบบ Open Source สำหรับ Claude Code, Codex  |
 | Fork | [Machine Learning in Python](https://github.com/itipunsnk-max/Statistics-and-Machine-Learning-in-Python)| แบบฝึกหัด - ลงมือ Statistics and Machine Learning in Python |
 | Fork-OCR | [Machine Learning in Python](https://github.com/itipunsnk-max/markitdown)| markitdown - OCR แปลงเป็น .md - ครื่องมือฟรีจาก Microsoft ที่แปลงไฟล์ให้เป็น Markdown  [🌐 FB](https://www.facebook.com/photo/?fbid=122121092451427468&set=a.122106683529427468)|
