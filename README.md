@@ -50,7 +50,6 @@
 | Fork | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill  | — 
 | 🔴| [แก้ Onedrive](https://github.com/itipunsnk-max/Fix-OneDrive-Pasue_FreeSpace_-_Download)  | Fix-OneDrive-Pasue_FreeSpace_-_Downloa  | — 
 | 🟢🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | 1.3.Streamlit for Map V.3 (CODEX-Cloud)   | — 
-| 🔐🚧   | [Tor-boq-intelligence](https://github.com/itipunsnk-max/tor-boq-intelligence) 🔐 | Tor-boq-intelligence   | — 
 
 > 🔐 = Private repository
 
@@ -67,7 +66,7 @@
 | 🟢     | [10.Pump-Water-Cleaning](https://github.com/itipunsnk-max/10.--Pump-Water-Cleaning)                      | แนวทางออกแบบ Pump Water Cleaning สำหรับ Solar Rooftop • [🌐 Live](https://10-pump-water-cleaning-ceqwqrvjg-itthiphan.vercel.app/) |
 | 🔴     | [XXX-Electrical_Standard_EIT-2564](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564) 🔐     | Repository สำหรับอ้างอิงมาตรฐานงานไฟฟ้า 
 | 🟢     | [12.Streamlit-Inverter-AC--Transformer](https://github.com/itipunsnk-max/12.Streamlit-Inverter-AC--Transformer) | Streamlit-Inverter-AC--Transformer • [🌐 Live](https://inverter-ac-cable-to-transformer.streamlit.app/)|
-
+| 🔐🚧   | [Tor-boq-intelligence](https://github.com/itipunsnk-max/tor-boq-intelligence) 🔐 | Tor-boq-intelligence  
 ---
 
 ## 📊 Power BI & Analytics
