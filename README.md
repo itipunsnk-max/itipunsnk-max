@@ -86,7 +86,6 @@
 | ------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
 | 🟢🟢🟢 Update (18-10-69)  | [3.SAP_MR_AUTOMATION-1](https://github.com/itipunsnk-max/3.SAP_MR_AUTOMATION-1)   | SAP_MR_AUTOMATION - Version 1
-
 | 🔴  (ต้นแบบ 3.4) ทำ Service Tracking | [3.3.CleansingData-Category_Gen.2](https://github.com/itipunsnk-max/3.3.CleansingData-Category_Gen.2)   | CleansingData-Category_Gen.2 for input Data
 | 🟢 (ห้ามลบ Portable)    | [3.4.Prepare-before-Cleaning.V.1-ALL-](https://github.com/itipunsnk-max/Prepare-before-Cleaning.V.1-ALL-)   | Prepare-before-Cleaning.V.1-ALL-
 | 🟢🟢     | [8.3.Sap-gui-sharepoint-automation](https://github.com/itipunsnk-max/8.3.Sap-gui-sharepoint-automation)🔐| Automation ระหว่าง SAP GUI และ SharePoint      
