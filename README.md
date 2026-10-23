@@ -37,7 +37,7 @@
 | Status | Project                                                                                                     | Description                                   | Demo                                                           |
 | ------ | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------- |
 | 🟢 Fork     | [skills---Update-Skills](https://github.com/itipunsnk-max/skills---Update-Skills) |  —         | —           |—  |
-| 🟢     | [**Solar Rooftop Guideline Thailand**](https://github.com/itipunsnk-max/Guidline_Solar_rooftop_thailand)    |  —         | — |
+| 🟢     | [**Solar Rooftop Guideline Thailand**](https://github.com/itipunsnk-max/Guidline_Solar_rooftop_thailand)    |  แนวทางการติดตั้ง Solar Rooftop         | — |
 | 🟡     | [**Solar Cable / Wiring / Raceway**](https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1) 🔐    | Cable sizing, Voltage Drop, Raceway / Wireway | —  |
 | 🔴     | [**Electrical Standard EIT 2564 V.2**](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) 🔐 | Knowledge base มาตรฐานงานไฟฟ้า                | — |
 | 🟠     | [**Power BI Saving Project**](https://github.com/itipunsnk-max/POWER-BI_Saving_Project)                     | Dashboard และแนวทางรายงาน Saving Project      | [🌐 Live](https://power-bi-saving-project.vercel.app/)|
