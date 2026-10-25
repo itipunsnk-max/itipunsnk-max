@@ -115,7 +115,7 @@
 | Status | Repository                                                                                            | รายละเอียด                                                                     |
 | ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | 🟢     | [AutoCad_MCP](https://github.com/itipunsnk-max/AutoCad_MCP) 🔐 | AutoCad_MCP |
-| 🟢🟢    | [Layout-to-AutoCAD](https://github.com/itipunsnk-max/AutoCad_MCP](https://github.com/itipunsnk-max/4.Layout-to-AutoCAD) 🔐 | Layout-to-AutoCAD |
+| 🟢🟢    | [Layout-to-AutoCAD](https://github.com/itipunsnk-max/4.Layout-to-AutoCAD) 🔐 | Layout-to-AutoCAD |
 ---
 
 
