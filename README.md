@@ -169,7 +169,6 @@
 
 | Type | Repository                                                                                        | รายละเอียด                                                                                     |
 | ---- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🔐   | [Codex_GitHub_ManualV.1](https://github.com/itipunsnk-max/Codex_GitHub_ManualV.1)                 | คู่มือ Codex / GitHub                                                                          |
 | Fork | [Kongruksiamza - ebook-for-education](https://github.com/itipunsnk-max/ebook-for-education)       | เอกสารประกอบการเรียนรู้                                                                        |
 | 🟢   | [Learning-Git-Github-Codex-book](https://github.com/itipunsnk-max/Learning-Git-Github-Codex-book) | Git / GitHub / Codex Notes • [🌐 Book](https://learning-git-github-codex-book.netlify.app/)    |
 | 🟡   | [Python_Knowledge_V.1](https://github.com/itipunsnk-max/Python_Knowledge_V.1) 🔐                  | Python Knowledge Base และ Libraries เช่น Argparse                                              |
