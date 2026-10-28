@@ -51,7 +51,7 @@
 | 🟢   | [17.Map-Optimozation-Application](https://github.com/itipunsnk-max/17.Map-Optimozation-Application) 🔐 | Map-Optimozation-Application • [🌐 Live](https://map-optimozation-application.streamlit.app/) | [🌐 Live](https://17-map-optimozation-application-3m3wlv7ee-itthiphan.vercel.app/)  
 | Fork | [diagram-design](https://github.com/cathrynlavery/diagram-design)  | Diagram Design — Agent Skill  | — 
 | 🔴| [แก้ Onedrive](https://github.com/itipunsnk-max/Fix-OneDrive-Pasue_FreeSpace_-_Download)  | Fix-OneDrive-Pasue_FreeSpace_-_Downloa  | — 
-| 🟢🟢   | [customer_lookup_appV2](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | 1.3.Streamlit for Map V.3 (CODEX-Cloud)   | — 
+| 🟢🟢   | [Customer_lookup_appV2 (Streamlit)](https://github.com/itipunsnk-max/customer_lookup_appV2) 🔐 | 1.3.Streamlit for Map V.3 (CODEX-Cloud)   | — 
 
 > 🔐 = Private repository
 
