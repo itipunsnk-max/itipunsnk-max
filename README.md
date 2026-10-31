@@ -38,6 +38,7 @@
 | ------ | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------- |
 | 🟢 Fork     | [skills---Update-Skills](https://github.com/itipunsnk-max/skills---Update-Skills) |  —         | —           |—  |
 | 🟢     | [agent-browser-th-guide](https://github.com/itipunsnk-max/agent-browser-th-guide) |  —         | —           |—  |
+| 🟢     | [0.Grid Code 2569 For Solar PV ...](https://github.com/itipunsnk-max/PEA-Grid-Code-2569_V.1)    |  —         | —           |—  |
 | 🟢     | [**Solar Rooftop Guideline Thailand**](https://github.com/itipunsnk-max/Guidline_Solar_rooftop_thailand)    |  แนวทางการติดตั้ง Solar Rooftop         | — |
 | 🟡     | [**Solar Cable / Wiring / Raceway**](https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1) 🔐    | Cable sizing, Voltage Drop, Raceway / Wireway | —  |
 | 🔴     | [**Electrical Standard EIT 2564 V.2**](https://github.com/itipunsnk-max/Electrical_Standard_EIT-2564V.2) 🔐 | Knowledge base มาตรฐานงานไฟฟ้า                | — |
@@ -61,6 +62,7 @@
 
 | Status | Repository                                                                                               | รายละเอียด                                                                                                                        |
 | ------ | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 🟢     | [0.Grid Code 2569 For Solar PV ...](https://github.com/itipunsnk-max/PEA-Grid-Code-2569_V.1)    | Grid Code 2569 (10-9-69)
 | 🟢     | [1.Guidline_Solar_rooftop_thailand](https://github.com/itipunsnk-max/Guidline_Solar_rooftop_thailand)    | แนวทางการตรวจรับ / ติดตั้ง Solar Rooftop ในประเทศไทย                                                                              |
 | 🟢     | [6.Design_PV_Layout_Solar-Rooftop](https://github.com/itipunsnk-max/Design_PV_Layout_Solar-Rooftop) 🔐   | การออกแบบ PV Layout บนหลังคา                                                                                                      |
 | 🟡     | [7.Solar-CABLE-Wiring-Raceway-V.1](https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1) 🔐   | Cable sizing, Voltage Drop, Raceway / Wireway                                                                                     |
